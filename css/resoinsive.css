@@ -1,0 +1,1400 @@
+/*  */
+
+@media (min-width:320px) and (max-width:575.98px) {
+    .tittle h4 {
+        font-size: 16px;
+        margin-bottom: 5px;
+    }
+
+    .tittle {
+        margin-bottom: 30px;
+    }
+
+    .tittle h2 {
+        font-size: 20px;
+        padding-bottom: 15px;
+        margin-bottom: 10px;
+    }
+
+    .tittle p {
+        width: auto;
+        margin-bottom: 30px;
+    }
+
+    /* nav */
+    .navbar {
+        padding: 0;
+    }
+
+    nav {
+        background: rgb(222, 95, 95);
+    }
+
+    nav .navbar-collapse {
+        position: absolute;
+        top: 100%;
+        left: 0;
+        background: rgba(56, 56, 56, 0.95);
+        width: 100%;
+        z-index: 99;
+    }
+
+    nav button i {
+        color: #fff;
+    }
+
+    nav button:focus {
+        text-decoration: none;
+        outline: 0;
+        box-shadow: 0 !important;
+    }
+
+    nav .navbar-toggler {
+        line-height: inherit;
+        background-color: transparent;
+        border: 0;
+        border-radius: .25rem;
+        transition: 0;
+        position: absolute;
+        top: 50%;
+        right: 75px;
+        transform: translateY(-50%);
+    }
+
+    nav .navbar-toggler:focus {
+        text-decoration: none;
+        outline: 0;
+        box-shadow: 0;
+    }
+
+
+
+
+    /* ------------ nav ------------ */
+    #banner .overlay {
+        padding-top: 100px;
+        padding-bottom: 80px;
+    }
+
+    #banner .slide h4 {
+        font-size: 25px;
+        margin-bottom: 0;
+    }
+
+    #banner .slide h2 {
+        font-size: 35px;
+    }
+
+    #banner .slide h3 {
+        font-size: 50px;
+    }
+
+    #banner .slick-dots li button {
+        display: block;
+        width: 65px;
+        font-size: 12px;
+        font-weight: 400;
+    }
+
+    #banner .slick-dots li {
+        white-space: nowrap;
+        width: 14px;
+        margin: 0;
+        margin-right: 60px;
+    }
+
+    #banner .slick-dots {
+        bottom: -70px;
+    }
+
+    nav ul li:hover a {
+        border-color: transparent;
+    }
+
+    .navbar-nav {
+        padding-left: 10px;
+    }
+
+    /* ------------ nav ------------ */
+
+
+    /* ------------ about ------------ */
+    #about {
+        padding: 30px 0;
+    }
+
+    #about .item {
+        margin: 10px 0;
+    }
+
+    #about .item:hover .img {
+        transform: translate(-10px, -10px);
+    }
+
+    /* ------------ about ------------ */
+
+
+    /* ------------ about ------------ */
+    #counter_up .col {
+        padding: 5px 0;
+        width: 20%;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+    }
+
+    #counter_up .counter {
+        font-size: 25px;
+        margin-bottom: 0;
+    }
+
+    #counter_up {
+        font-size: 10px;
+    }
+
+    /* ------------ about ------------ */
+
+
+    /* ------------ service ------------ */
+    #service {
+        padding: 30px 0;
+    }
+
+    #service .item i {
+        top: 50%;
+        left: 25px;
+        transform: translateY(-50%);
+    }
+
+    #service .item {
+        position: relative;
+        padding: 15px 30px 30px 85px;
+
+    }
+
+    #service .col-lg-4 {
+        border-bottom: 1px solid #e5e5e5;
+    }
+
+    #service .col-lg-4:last-child {
+        border: none;
+    }
+
+    /* ------------ service ------------ */
+
+
+    /* ------------ Unique_design ------------ */
+    #Unique_design {
+        padding-top: 20px;
+    }
+
+    #Unique_design .tablet {
+        width: 250px;
+    }
+
+    #Unique_design .mobile {
+        width: 90px;
+        left: 68%;
+        bottom: -30px;
+    }
+
+    /* ------------ Unique_design ------------ */
+
+
+    /* ------------ service_qna ------------ */
+    #service_qna {
+        padding-top: 40px;
+        padding-bottom: 20px;
+    }
+
+    #service_qna .accordion {
+        margin-top: 30px;
+    }
+
+    /* ------------ service_qna ------------ */
+
+
+    /* ------------ massage ------------ */
+
+    #massage .slide i {
+        display: none;
+    }
+
+    #massage .slide {
+        margin: 0;
+        padding: 0;
+        padding: 0 15px;
+    }
+
+    #massage .slide p {
+        font-size: 14px;
+    }
+
+    #massage .left_arrow {
+        left: 0;
+        font-size: 25px;
+    }
+
+    #massage .right_arrow {
+        right: 0;
+        font-size: 25px;
+    }
+
+    /* ------------ massage ------------ */
+
+
+    /* ------------ team ------------ */
+
+    #team {
+        padding: 40px 0;
+        padding-bottom: 0;
+    }
+
+    #team .member h4 {
+        margin: 10px 0 5px;
+    }
+
+    #team .member p {
+        margin-bottom: 30px;
+    }
+
+    /* ------------ team ------------ */
+
+    /* ------------ brand ------------ */
+    #brand {
+        padding: 20px 0;
+    }
+
+    #brand .text-center {
+        width: 50%;
+    }
+
+    /* ------------ brand ------------ */
+
+
+    /* ------------ work ------------ */
+    #work .grid .grid-item {
+        width: 50%;
+    }
+
+    #work .overlay i {
+        font-size: 22px;
+    }
+
+    #work .overlay .titt {
+        font-size: 13px;
+    }
+
+    /* ------------ work ------------ */
+
+
+    /* ------------ people_say ------------ */
+    #people_say .slide {
+        margin: 0;
+        padding-left: 0;
+        padding-top: 130px;
+        position: relative;
+        text-align: center;
+    }
+
+    #people_say .slide .img {
+        left: 50%;
+        top: 0;
+        transform: translateX(-50%);
+        width: 120px;
+        height: 120px;
+    }
+
+    #people_say .slide p {
+        font-size: 14px;
+    }
+
+    #people_say .slide h4::after {
+        width: 0;
+    }
+
+    #people_say .slide h4 {
+        padding-left: 0;
+    }
+
+    #people_say .left_arrow {
+        left: 25px;
+        top: 35%;
+    }
+
+    #people_say .right_arrow {
+        right: 25px;
+        top: 35%;
+    }
+
+    /* ------------ people_say ------------ */
+
+
+    /* ------------ happy_client ------------ */
+
+    #happy_client {
+        padding-top: 50px;
+    }
+
+    #happy_client .item {
+        padding-right: 0;
+    }
+
+    #happy_client .item .descpt {
+        font-size: 12px;
+    }
+
+    /* ------------ happy_client ------------ */
+
+
+    /* ------------ our_blog ------------ */
+    #our_blog .blog {
+        margin: 20px 25px;
+    }
+
+    /* ------------ our_blog ------------ */
+
+
+    /* ------------ our_blog ------------ */
+    #open_map .location {
+        width: auto;
+        height: auto;
+        margin: 0 20px;
+    }
+
+    /* ------------ our_blog ------------ */
+
+
+    /* ------------ footer ------------ */
+    footer form button {
+        padding: 0;
+        margin-top: 10px;
+        font-size: 12px;
+    }
+
+    footer .blogs {
+        margin-top: 35px;
+    }
+
+
+    footer .blogs .tit {
+        width: auto;
+        font-size: 13px;
+    }
+
+    footer .blogs .desp {
+        padding-left: 10px;
+    }
+
+    footer .instra .album a {
+        width: 32%;
+        margin: 2px;
+    }
+
+    footer .instra {
+        margin-top: 35px;
+    }
+
+    /* ------------ footer ------------ */
+
+
+
+
+
+
+
+    /*  */
+}
+
+@media (min-width:576px) and (max-width:767.98px) {
+    .tittle h4 {
+        font-size: 16px;
+        margin-bottom: 5px;
+    }
+
+    .tittle {
+        margin-bottom: 30px;
+    }
+
+    .tittle h2 {
+        font-size: 20px;
+        padding-bottom: 15px;
+        margin-bottom: 10px;
+    }
+
+    .tittle p {
+        width: auto;
+        margin-bottom: 30px;
+    }
+
+    /* nav */
+    .navbar {
+        padding: 0;
+    }
+
+    nav {
+        background: rgb(222, 95, 95);
+    }
+
+    nav .navbar-collapse {
+        position: absolute;
+        top: 100%;
+        left: 0;
+        background: rgba(56, 56, 56, 0.95);
+        width: 100%;
+        z-index: 99;
+    }
+
+    nav button i {
+        color: #fff;
+    }
+
+    nav button:focus {
+        text-decoration: none;
+        outline: 0;
+        box-shadow: 0 !important;
+    }
+
+    nav .navbar-toggler {
+        line-height: inherit;
+        background-color: transparent;
+        border: 0;
+        border-radius: .25rem;
+        transition: 0;
+        position: absolute;
+        top: 50%;
+        right: 90px;
+        transform: translateY(-50%);
+    }
+
+    nav .navbar-toggler:focus {
+        text-decoration: none;
+        outline: 0;
+        box-shadow: 0;
+    }
+
+
+
+
+    /* ------------ nav ------------ */
+    #banner .overlay {
+        padding-top: 100px;
+        padding-bottom: 80px;
+    }
+
+    #banner .slide h4 {
+        font-size: 35px;
+    }
+
+    #banner .slide h2 {
+        font-size: 42px;
+    }
+
+    #banner .slide h3 {
+        font-size: 75px;
+    }
+
+    #banner .slick-dots li button {
+        display: block;
+        width: 65px;
+        font-size: 12px;
+        font-weight: 400;
+    }
+
+    #banner .slick-dots li {
+        white-space: nowrap;
+        width: 14px;
+        margin: 0;
+        margin-right: 60px;
+    }
+
+    #banner .slick-dots {
+        bottom: -85px;
+    }
+
+    nav ul li:hover a {
+        border-color: transparent;
+    }
+
+    .navbar-nav {
+        padding-left: 10px;
+    }
+
+    /* ------------ nav ------------ */
+
+
+    /* ------------ about ------------ */
+    #about {
+        padding: 30px 0;
+    }
+
+    #about .item {
+        margin: 10px 0;
+    }
+
+    #about .item:hover .img {
+        transform: translate(-10px, -10px);
+    }
+
+    /* ------------ about ------------ */
+
+
+    /* ------------ about ------------ */
+    #counter_up .col {
+        padding: 15px 0;
+        width: 20%;
+    }
+
+    #counter_up .counter {
+        font-size: 25px;
+        margin-bottom: 0;
+    }
+
+    #counter_up {
+        font-size: 10px;
+    }
+
+    /* ------------ about ------------ */
+
+
+    /* ------------ service ------------ */
+    #service {
+        padding: 30px 0;
+    }
+
+
+    #service .item {
+        position: relative;
+        padding: 30px 0 30px 50px;
+    }
+
+    #service .col-lg-4 {
+        border-bottom: 1px solid #e5e5e5;
+    }
+
+    #service .item i {
+        top: 30px;
+    }
+
+    /* ------------ service ------------ */
+
+
+    /* ------------ Unique_design ------------ */
+    #Unique_design {
+        padding-top: 20px;
+    }
+
+    #Unique_design .tablet {
+        width: 250px;
+    }
+
+    #Unique_design .mobile {
+        width: 90px;
+        left: 68%;
+        bottom: -30px;
+    }
+
+    /* ------------ Unique_design ------------ */
+
+
+    /* ------------ service_qna ------------ */
+    #service_qna {
+        padding-top: 40px;
+        padding-bottom: 20px;
+    }
+
+    #service_qna .accordion {
+        margin-top: 30px;
+    }
+
+    /* ------------ service_qna ------------ */
+
+
+    /* ------------ massage ------------ */
+
+
+    #massage .slide {
+        margin: 0;
+        padding-left: 100px;
+    }
+
+    #massage .slide p {
+        font-size: 14px;
+    }
+
+    #massage .left_arrow {
+        left: -20px;
+        font-size: 25px;
+    }
+
+    #massage .right_arrow {
+        right: -20px;
+        font-size: 25px;
+    }
+
+    #massage .slide i {
+        left: 20px;
+        padding: 10px;
+        font-size: 35px;
+    }
+
+    /* ------------ massage ------------ */
+
+
+    /* ------------ team ------------ */
+
+    #team {
+        padding: 40px 0;
+        padding-bottom: 0;
+    }
+
+    #team .member h4 {
+        margin: 10px 0 5px;
+    }
+
+    #team .member p {
+        margin-bottom: 30px;
+    }
+
+    #team .member .bg {
+        margin: 0;
+    }
+
+    #team .member .overlay i {
+        width: 30px;
+        height: 30px;
+        font-size: 15px;
+        line-height: 30px;
+    }
+
+    /* ------------ team ------------ */
+
+    /* ------------ brand ------------ */
+
+    #brand {
+        padding: 20px 0;
+    }
+
+    #brand img {
+        max-width: 70%;
+    }
+
+    /* ------------ brand ------------ */
+
+
+    /* ------------ work ------------ */
+    #work .grid .grid-item {
+        width: 50%;
+    }
+
+    #work .overlay i {
+        font-size: 22px;
+    }
+
+    #work .overlay .titt {
+        font-size: 13px;
+    }
+
+    /* ------------ work ------------ */
+
+
+    /* ------------ people_say ------------ */
+    #people_say .slide {
+        margin: 0;
+        padding-left: 0;
+        padding-top: 130px;
+        position: relative;
+        text-align: center;
+    }
+
+    #people_say .slide .img {
+        left: 50%;
+        top: 0;
+        transform: translateX(-50%);
+        width: 120px;
+        height: 120px;
+    }
+
+    #people_say .slide p {
+        font-size: 14px;
+    }
+
+    #people_say .slide h4::after {
+        width: 0;
+    }
+
+    #people_say .slide h4 {
+        padding-left: 0;
+    }
+
+    #people_say .left_arrow {
+        left: 25px;
+        top: 35%;
+    }
+
+    #people_say .right_arrow {
+        right: 25px;
+        top: 35%;
+    }
+
+    /* ------------ people_say ------------ */
+
+
+    /* ------------ happy_client ------------ */
+
+    #happy_client {
+        padding-top: 50px;
+    }
+
+    #happy_client .item {
+        padding-right: 0;
+        padding-left: 85px;
+    }
+
+    #happy_client .item .descpt {
+        font-size: 12px;
+    }
+
+    /* ------------ happy_client ------------ */
+
+
+    /* ------------ our_blog ------------ */
+    #our_blog .blog {
+        margin: 20px 25px;
+    }
+
+    #our_blog .sm-center {
+        justify-content: center;
+    }
+
+    /* ------------ our_blog ------------ */
+
+
+    /* ------------ our_blog ------------ */
+    #open_map .location {
+        width: auto;
+        height: 300px;
+        margin: 0 20px;
+    }
+
+    /* ------------ our_blog ------------ */
+
+
+    /* ------------ footer ------------ */
+    footer form button {
+        padding: 0;
+        margin-top: 10px;
+        font-size: 12px;
+    }
+
+    footer .blogs {
+        margin-top: 35px;
+    }
+
+
+    footer .blogs .tit {
+        width: auto;
+        font-size: 13px;
+    }
+
+    footer .blogs .desp {
+        padding-left: 10px;
+    }
+
+
+    /* ------------ footer ------------ */
+
+
+
+
+
+
+
+    /*  */
+}
+
+@media (min-width:768px) and (max-width:991.98px) {
+    .tittle p {
+        width: 600px;
+    }
+
+    nav .navbar-brand {
+        padding: 0;
+    }
+
+    .navbar-expand-md .navbar-nav .nav-link {
+        padding-right: 0;
+        padding-left: 0;
+    }
+
+    /* ------------ nav ------------ */
+    #banner .overlay {
+        padding-top: 100px;
+        padding-bottom: 80px;
+    }
+
+    #banner .slide h4 {
+        font-size: 35px;
+    }
+
+    #banner .slide h2 {
+        font-size: 42px;
+    }
+
+    #banner .slide h3 {
+        font-size: 75px;
+    }
+
+    #banner .slick-dots li button {
+        display: block;
+        width: 65px;
+        font-size: 12px;
+        font-weight: 400;
+    }
+
+    #banner .slick-dots li {
+        white-space: nowrap;
+        width: 14px;
+        margin: 0 55px;
+    }
+
+    #banner .slick-dots {
+        bottom: -85px;
+    }
+
+    nav ul li:hover a {
+        border-color: transparent;
+    }
+
+    .navbar-nav {
+        padding-left: 10px;
+    }
+
+    /* ------------ nav ------------ */
+
+
+    /* ------------ about ------------ */
+    #about {
+        padding: 30px 0;
+    }
+
+    #about .item {
+        margin: 10px 0;
+    }
+
+    #about .item:hover .img {
+        transform: translate(-10px, -10px);
+    }
+
+    /* ------------ about ------------ */
+
+
+    /* ------------ about ------------ */
+    #counter_up .col {
+        padding: 15px 0;
+        width: 20%;
+    }
+
+    #counter_up .counter {
+        font-size: 25px;
+        margin-bottom: 0;
+    }
+
+    #counter_up {
+        font-size: 10px;
+    }
+
+    /* ------------ about ------------ */
+
+
+    /* ------------ service ------------ */
+    #service {
+        padding: 30px 0;
+    }
+
+
+    #service .item {
+        position: relative;
+        padding: 30px 0 30px 50px;
+    }
+
+    #service .col-lg-4 {
+        border-bottom: 1px solid #e5e5e5;
+    }
+
+    #service .item i {
+        top: 30px;
+    }
+
+    /* ------------ service ------------ */
+
+
+    /* ------------ service_qna ------------ */
+    #service_qna {
+        padding-bottom: 20px;
+    }
+
+    #service_qna .accordion {
+        margin-top: 30px;
+    }
+
+    /* ------------ service_qna ------------ */
+
+
+    /* ------------ massage ------------ */
+
+
+    #massage .slide {
+        margin: 30px;
+        padding-left: 140px;
+    }
+
+    #massage .slide p {
+        font-size: 14px;
+    }
+
+    #massage .left_arrow {
+        left: -20px;
+    }
+
+    #massage .right_arrow {
+        right: -20px;
+        font-size: 25px;
+    }
+
+    #massage .slide i {
+        left: 20px;
+        padding: 10px;
+    }
+
+    /* ------------ massage ------------ */
+
+
+    /* ------------ team ------------ */
+
+    #team {
+        padding: 40px 0;
+        padding-bottom: 0;
+    }
+
+    #team .member h4 {
+        margin: 10px 0 5px;
+    }
+
+    #team .member p {
+        margin-bottom: 30px;
+    }
+
+    #team .member .bg {
+        margin: 0;
+    }
+
+    #team .member .overlay i {
+        width: 30px;
+        height: 30px;
+        font-size: 15px;
+        line-height: 30px;
+    }
+
+    /* ------------ team ------------ */
+
+    /* ------------ brand ------------ */
+
+    #brand {
+        padding: 20px 0;
+    }
+
+    /* ------------ brand ------------ */
+
+
+    /* ------------ work ------------ */
+
+
+    /* ------------ work ------------ */
+
+
+    /* ------------ people_say ------------ */
+    #people_say .slide {
+        margin: 0;
+        padding-left: 0;
+        padding-top: 130px;
+        position: relative;
+        text-align: center;
+    }
+
+    #people_say .slide .img {
+        left: 50%;
+        top: 0;
+        transform: translateX(-50%);
+        width: 120px;
+        height: 120px;
+    }
+
+    #people_say .slide p {
+        font-size: 14px;
+    }
+
+    #people_say .slide h4::after {
+        width: 0;
+    }
+
+    #people_say .slide h4 {
+        padding-left: 0;
+    }
+
+    #people_say .left_arrow {
+        left: 25px;
+        top: 35%;
+    }
+
+    #people_say .right_arrow {
+        right: 25px;
+        top: 35%;
+    }
+
+    /* ------------ people_say ------------ */
+
+
+    /* ------------ happy_client ------------ */
+
+    #happy_client {
+        padding-top: 50px;
+    }
+
+    #happy_client .item {
+        padding-right: 0;
+        padding-left: 85px;
+    }
+
+    #happy_client .item .descpt {
+        font-size: 12px;
+    }
+
+    /* ------------ happy_client ------------ */
+
+
+    /* ------------ our_blog ------------ */
+    #our_blog .blog {
+        margin: 20px 25px;
+    }
+
+    #our_blog .sm-center {
+        justify-content: center;
+    }
+
+    /* ------------ our_blog ------------ */
+
+
+    /* ------------ our_blog ------------ */
+    #open_map .location {
+        width: auto;
+        height: 300px;
+        margin: 0 20px;
+    }
+
+    /* ------------ our_blog ------------ */
+
+
+    /* ------------ footer ------------ */
+    footer form button {
+        padding: 0;
+        margin-top: 10px;
+        font-size: 12px;
+    }
+
+    footer .md-center {
+        justify-content: center;
+    }
+
+    footer .blogs {
+        margin-top: 35px;
+    }
+
+    footer .instra {
+        margin-top: 35px;
+    }
+
+
+    footer .blogs .tit {
+        width: auto;
+        font-size: 13px;
+    }
+
+    footer .blogs .desp {
+        padding-left: 10px;
+    }
+
+    footer .instra .album a {
+        width: 23%;
+        margin: 2px;
+    }
+
+    /* ------------ footer ------------ */
+
+
+
+
+
+
+
+    /*  */
+}
+
+@media (min-width:992px) and (max-width:1199.98px) {
+    .tittle p {
+        width: 600px;
+    }
+
+    nav .navbar-brand {
+        padding: 0;
+    }
+
+    .navbar-expand-md .navbar-nav .nav-link {
+        padding-right: 0;
+        padding-left: 0;
+    }
+
+    /* ------------ nav ------------ */
+    #banner .slick-dots li button {
+        display: block;
+        width: 100px;
+        font-size: 14px;
+        font-weight: 400;
+    }
+
+    #banner .slick-dots li {
+        white-space: nowrap;
+        width: 14px;
+        margin: 0 55px;
+    }
+
+    #banner .slick-dots {
+        bottom: -85px;
+    }
+
+    nav ul li:hover a {
+        border-color: transparent;
+    }
+
+    .navbar-nav {
+        padding-left: 10px;
+    }
+
+    /* ------------ nav ------------ */
+
+
+    /* ------------ about ------------ */
+    #about {
+        padding: 30px 0;
+    }
+
+    #about .item {
+        margin: 10px 0;
+    }
+
+    #about .item:hover .img {
+        transform: translate(-10px, -10px);
+    }
+
+    /* ------------ about ------------ */
+
+
+    /* ------------ about ------------ */
+    #counter_up .col {
+        padding: 15px 0;
+        width: 20%;
+    }
+
+    #counter_up .counter {
+        font-size: 25px;
+        margin-bottom: 0;
+    }
+
+    #counter_up {
+        font-size: 10px;
+    }
+
+    /* ------------ about ------------ */
+
+
+    /* ------------ service ------------ */
+    #service {
+        padding: 30px 0;
+    }
+
+
+    #service .item {
+        position: relative;
+        padding: 30px 0 30px 50px;
+    }
+
+    #service .col-lg-4 {
+        border-bottom: 1px solid #e5e5e5;
+    }
+
+    #service .item i {
+        top: 30px;
+    }
+
+    /* ------------ service ------------ */
+
+
+    /* ------------ service_qna ------------ */
+    #service_qna {
+        padding-bottom: 20px;
+    }
+
+    #service_qna .accordion-body {
+        height: 140px;
+
+    }
+
+    #service_qna .accordion-button {
+        padding: 12px 20px;
+
+    }
+
+
+    /* ------------ service_qna ------------ */
+
+
+    /* ------------ massage ------------ */
+
+
+    #massage .slide {
+        margin: 30px;
+        padding-left: 140px;
+    }
+
+    #massage .slide p {
+        font-size: 14px;
+    }
+
+    #massage .left_arrow {
+        left: -20px;
+    }
+
+    #massage .right_arrow {
+        right: -20px;
+        font-size: 25px;
+    }
+
+    #massage .slide i {
+        left: 20px;
+        padding: 10px;
+    }
+
+    /* ------------ massage ------------ */
+
+
+    /* ------------ team ------------ */
+
+    #team {
+        padding: 40px 0;
+        padding-bottom: 0;
+    }
+
+    #team .member h4 {
+        margin: 10px 0 5px;
+    }
+
+    #team .member p {
+        margin-bottom: 30px;
+    }
+
+    #team .member .bg {
+        margin: 0;
+    }
+
+    #team .member .overlay i {
+        width: 30px;
+        height: 30px;
+        font-size: 15px;
+        line-height: 30px;
+    }
+
+    /* ------------ team ------------ */
+
+    /* ------------ brand ------------ */
+
+    #brand {
+        padding: 20px 0;
+    }
+
+    /* ------------ brand ------------ */
+
+
+    /* ------------ work ------------ */
+
+
+    /* ------------ work ------------ */
+
+
+    /* ------------ people_say ------------ */
+
+    /* ------------ people_say ------------ */
+
+
+    /* ------------ happy_client ------------ */
+
+    #happy_client {
+        padding-top: 50px;
+    }
+
+    #happy_client .item {
+        padding-right: 0;
+        padding-left: 85px;
+    }
+
+    #happy_client .item .descpt {
+        font-size: 12px;
+    }
+
+    /* ------------ happy_client ------------ */
+
+
+    /* ------------ our_blog ------------ */
+    #our_blog .blog {
+        margin: 20px 25px;
+    }
+
+    #our_blog .sm-center {
+        justify-content: center;
+    }
+
+    /* ------------ our_blog ------------ */
+
+
+    /* ------------ our_blog ------------ */
+    #open_map .location {
+        width: auto;
+        height: 300px;
+        margin: 0 20px;
+    }
+
+    /* ------------ our_blog ------------ */
+
+
+    /* ------------ footer ------------ */
+
+    /* ------------ footer ------------ */
+
+
+    footer .blogs .tit {
+        width: auto;
+        font-size: 13px;
+        margin-bottom: 0;
+    }
+
+    footer .instra .album a {
+        width: 23%;
+        margin: 2px;
+    }
+
+
+
+    /*  */
+}
+
+/*  */
